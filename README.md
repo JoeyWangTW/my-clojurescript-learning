@@ -20,3 +20,6 @@ Once you connect to the nREPL, run `(cljs)` to switch to the ClojureScript REPL.
 lein clean
 lein package
 ```
+
+
+Testing push function
